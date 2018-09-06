@@ -8,4 +8,4 @@ Projects that I have written at college (Bois-de-Boulogne)
 - [Project 1](/bd3/project1) `Hive`
 
 ### [BD5 - Intelligence d'affaires et gestion des entrepôts de données](/bd5)
-- [intra](/bd5/project3) `Sql`
+- [Intra](/bd5/intra) `Sql`
