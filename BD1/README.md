@@ -7,4 +7,4 @@
 |   | Sabri Benferhat  |
 
 ### [Project 1](/BD1/project1) `Python`
-### [TP](/cmpe150/tp) `Python`
+### [TP](/BD1/tp) `Python`
