@@ -6,6 +6,5 @@
 |   | Zied Zaier  |
 |   | Sabri Benferhat  |
 
-### [Project 1](/cmpe150/project1) `Java`
-### [Project 2](/cmpe150/project2) `Java`
-### [Project 3](/cmpe150/project3) `Java`
+### [Project 1](/BD1/project1) `Python`
+### [TP](/cmpe150/tp) `Python`
