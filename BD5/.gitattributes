@@ -1,5 +1,0 @@
-* linguist-vendored
-*.py linguist-vendored=false
-*.sql linguist-vendored=false
-*.hive linguist-vendored=false
-*.ipynb linguist-vendored=false
