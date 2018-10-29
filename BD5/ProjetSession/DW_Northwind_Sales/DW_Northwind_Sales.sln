@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "DW_Northwind_Sales", "DW_Northwind_Sales\DW_Northwind_Sales.dtproj", "{B3A845E9-C305-4A9E-ABCB-5AC1654F35EE}"
+EndProject
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAS_Cube", "SSIS_Cube\SSAS_Cube.dwproj", "{02AF1B5A-6684-480E-96F0-715656AF727E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3A845E9-C305-4A9E-ABCB-5AC1654F35EE}.Development|Default.ActiveCfg = Development
+		{B3A845E9-C305-4A9E-ABCB-5AC1654F35EE}.Development|Default.Build.0 = Development
+		{02AF1B5A-6684-480E-96F0-715656AF727E}.Development|Default.ActiveCfg = Development
+		{02AF1B5A-6684-480E-96F0-715656AF727E}.Development|Default.Build.0 = Development
+		{02AF1B5A-6684-480E-96F0-715656AF727E}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
