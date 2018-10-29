@@ -13,3 +13,4 @@ Projects that I have written at college (Bois-de-Boulogne)
 
 ### [BD5 - Intelligence d'affaires et gestion des entrepôts de données](/BD5)
 - [Intra](/BD5/intra) `Sql`
+- [ProjetSession](/BD5/ProjetSession) `Data Warehouse Modeling, SSIS, SSAS`
