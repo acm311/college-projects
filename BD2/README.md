@@ -4,4 +4,4 @@
 | --- | --- |
 | Winter 2018  | Zied Zaier  |
 
-### [TP3](/BD2/tp3) `Introduction aux réseaux de neurones - SIMBRAIN`
+### [TP3](/BD2/tp3) `Introduction aux réseaux de neurones - Simbrain`
