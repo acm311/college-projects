@@ -1,4 +1,4 @@
-# My college projects
+# Some college projects
 Projects that I have written at college (Bois-de-Boulogne)
 
 ### [BD1 - Initiation à la fonction de travail](/BD1)
