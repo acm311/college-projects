@@ -5,3 +5,4 @@
 | Summer 2018  | Soraya Ferdenache  |
 
 ### [Intra](/BD5/intra) `Sql`
+### [Intra](/BD5/ProjetSession) `Data Warehouse Modeling, SSIS, SSAS`
